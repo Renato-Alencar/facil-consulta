@@ -1,24 +1,57 @@
-# facil-consultaa
+# Fácil Consulta
 
-## Project setup
+## Tecnologias Utilizadas
+
+- Vuejs v2
+- Vuex
+- VueRouter
+
+## Desafios
+
+- Validação dos inputs
+- Transferência dos dados de componentes
+- Responsividade
+
+## Configuração do Projeto
+
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+```
+npm install
+```
+
+### Compilação e hot-reloads para o Desenvolvimento
+
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+```
+npm run serve
+```
+
+### Compilação e minificação para Produção
+
 ```
 yarn build
 ```
 
-### Lints and fixes files
+```
+npm run build
+```
+
+### Lints and arquivos fixos
+
 ```
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+```
+npm run lint
+```
+
+### Configuração Personalizada
+
+See [Configuração da Referência](https://cli.vuejs.org/config/).
